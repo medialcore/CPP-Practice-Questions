@@ -15,10 +15,10 @@ Concept 3
 
 1️⃣ What is User-defined conversion function ?
 
-<details> <summary>✅ Show Answer</summary>
-<br>
-Its a function with a special syntax for conversion ( Syntax must be learned ). 
-Enables implicit conversion or explicit conversion from a class type to another type.
+<details> <summary>✅ Show Answer</summary> <br>
+
+Its a function with a special syntax for conversion ( Syntax must be learned ).<br> 
+Enables implicit conversion or explicit conversion from a class type to another type.<br>
     
 Example:
 ```
