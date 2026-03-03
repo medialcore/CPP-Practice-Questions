@@ -1,9 +1,26 @@
-### Question 1
+# 🎥 Video XXX – [Topic Title]
 
-What is implicit conversion?
+📺 **Watch the video here:**  
+(YouTube link)
 
-<details>
-<summary>Answer</summary>
+---
 
-Implicit conversion happens automatically when...
-</details>
+## 📌 What You Should Know Before Starting
+
+- Bullet prerequisite 1
+- Bullet prerequisite 2
+- Bullet prerequisite 3
+
+---
+
+# 🟢 Basic Questions
+
+---
+
+### 1️⃣ Question Title (Short Description)
+
+Write the full question here.
+
+```cpp
+// Optional small code example
+int x = 5;
