@@ -12,13 +12,16 @@ Concept 2
 Concept 3
 
 🟢 Basic Questions
+
 1️⃣ What is User-defined conversion function ?
+
 <details> <summary>✅ Show Answer</summary>
+
 Its a function with a special syntax for conversion ( Syntax must be learned ). 
 Enables implicit conversion or explicit conversion from a class type to another type.
     
 Example:
-````
+```
 struct X
 {
     // implicit conversion
@@ -47,7 +50,7 @@ int main()
  
     int (*pa)[3] = x;  // OK
 }
-````
+```
 
 
 
