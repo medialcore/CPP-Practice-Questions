@@ -18,7 +18,7 @@ Its a function with a special syntax for conversion ( Syntax must be learned ).
 Enables implicit conversion or explicit conversion from a class type to another type.
     
 Example:
-<code>
+````
 struct X
 {
     // implicit conversion
@@ -47,8 +47,8 @@ int main()
  
     int (*pa)[3] = x;  // OK
 }
+````
 
-</code>
 
 
 </details>
