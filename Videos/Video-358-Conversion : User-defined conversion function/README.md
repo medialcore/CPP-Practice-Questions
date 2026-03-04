@@ -1,6 +1,6 @@
 Video 359 – Conversion : User-defined conversion function
 
-📺 Questions for this video : https://youtube.com/your-link
+Video : https://youtube.com/your-link
 
 1️⃣ What is User-defined conversion function ?
 
