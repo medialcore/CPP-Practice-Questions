@@ -1,6 +1,7 @@
-Video 359 – Conversion : User-defined conversion function
+Video 359 : https://youtube.com/your-link
+Conversion : User-defined conversion function
 
-Video : https://youtube.com/your-link
+Video : 
 <br>
 <br>
 <br>
