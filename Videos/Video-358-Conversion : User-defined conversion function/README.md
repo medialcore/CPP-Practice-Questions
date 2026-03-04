@@ -3,14 +3,6 @@ Video 359 – Conversion : User-defined conversion function
 📺 Watch the video here:
 https://youtube.com/your-link
 
-📌 Prerequisites
-
-Concept 1
-
-Concept 2
-
-Concept 3
-
 🟢 Basic Questions
 
 1️⃣ What is User-defined conversion function ?
