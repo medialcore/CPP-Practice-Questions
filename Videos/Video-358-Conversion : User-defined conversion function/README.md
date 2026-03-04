@@ -44,7 +44,7 @@ int main()
 </details>
 
 2️⃣ User-defined conversion functions has explicit and implicit conversions. <br>
-&emsp What is the meaning of explicit and implicit in this context ? 
+&emsp; What is the meaning of explicit and implicit in this context ? 
 
 <details> <summary>✅ Show Answer</summary> <br>
 
