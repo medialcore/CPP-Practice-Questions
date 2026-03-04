@@ -43,7 +43,8 @@ int main()
 ```
 </details>
 
-:two: What is User-defined conversion function ?
+2️⃣ User-defined conversion functions has explicit and implicit conversions. <br>
+    What is the meaning of explicit and implicit in this context ? 
 
 <details> <summary>✅ Show Answer</summary> <br>
 
