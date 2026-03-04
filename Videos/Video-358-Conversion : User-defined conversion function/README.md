@@ -1,4 +1,4 @@
-🎥 Video 359 – Conversion : User-defined conversion function
+Video 359 – Conversion : User-defined conversion function
 
 📺 Watch the video here:
 https://youtube.com/your-link
