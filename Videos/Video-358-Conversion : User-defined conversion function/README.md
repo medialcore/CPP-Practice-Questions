@@ -41,84 +41,12 @@ int main()
     int (*pa)[3] = x;  // OK
 }
 ```
-
-
-
 </details>
 2️⃣ What is initialization?
-
-Write the question here.
-
-<details> <summary>✅ Show Answer</summary>
-
-Initialization means assigning a value at the time of declaration.
-
+<details> <summary>✅ Show Answer</summary>   
 Example:
-
-int value = 10;
 </details>
-🟡 Intermediate Questions
-3️⃣ What is scope?
-
-Question text here.
-
-<details> <summary>✅ Show Answer</summary>
-
-Scope defines where a variable is accessible.
-
-Example:
-
-void function() {
-    int local = 5;
-}
-
-local is only accessible inside the function.
-
 </details>
-🔴 Advanced Questions
-4️⃣ Explain storage duration.
-
-Question text here.
-
-<details> <summary>✅ Show Answer</summary>
-
-Storage duration determines how long a variable exists in memory.
-
-Types:
-
-Automatic
-
-Static
-
-Thread
-
-Dynamic
-
-</details>
-🧠 Bonus Challenge
-
-What will this program output?
-
-#include <iostream>
-
-int main() {
-    int x = 5;
-    std::cout << ++x;
-}
-<details> <summary>💡 Solution</summary>
-
-Output: 6
-
-++x increments before printing.
-
-</details>
-📚 Key Takeaways
-
-Always initialize variables
-
-Understand scope rules
-
-Know lifetime and storage duration
 
 🔁 Navigation
 
