@@ -3,9 +3,7 @@ Video 359 – Conversion : User-defined conversion function
 📺 Watch the video here:
 https://youtube.com/your-link
 
-🟢 Basic Questions
-
-1️⃣ What is User-defined conversion function ?
+1. What is User-defined conversion function ?
 
 <details> <summary>✅ Show Answer</summary> <br>
 
