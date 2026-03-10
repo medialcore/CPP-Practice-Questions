@@ -1,7 +1,6 @@
 # User-defined conversion function
 <br>
 📺 Video 358 : https://youtu.be/GsCbpmFcTPU
-[Link Text](https://www.example.com)
 <br>
 <br>
 <h2>Questions for video 358</h2>
@@ -22,8 +21,12 @@ Example:
 2️⃣ User-defined conversion functions has explicit and implicit conversion. Explain that.
 
 <details> <summary>✅ Show Answer</summary> <br>
+</details>
+
+[Link Text](https://www.example.com)
 
 ⬅ Previous Practice: (link)
 ➡ Next Practice: (link)
+
 
 
