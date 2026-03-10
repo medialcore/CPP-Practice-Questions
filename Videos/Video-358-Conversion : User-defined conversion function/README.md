@@ -24,3 +24,5 @@ Example:
 
 ⬅ Previous Practice: (link)
 ➡ Next Practice: (link)
+
+[Link Text](https://www.example.com)
