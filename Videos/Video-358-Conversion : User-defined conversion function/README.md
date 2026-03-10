@@ -1,7 +1,6 @@
 # User-defined conversion function
 <br>
 <br>
-<br>
 📺 https://youtu.be/GsCbpmFcTPU
 <br>
 <br>
